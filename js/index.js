@@ -14,4 +14,10 @@ $(document).ready(function() {
    $('#goLight').css('background-color', 'green');
   });
 
+  function clearLights()
+  $
+  $('.button').click (function(){
+    $('.bulb').('active');
+  });
+
 });
